@@ -3,7 +3,7 @@
 ## Cátedra
 
 **Materia:** Base de Datos  
-**Universidad:** Universidad Tecnológica Nacional – Facultad Regional Buenos Aires (UTN FRBA)
+**Universidad:** Universidad Tecnológica Nacional – Facultad Regional Villa Maria
 
 **Trabajo Práctico:** Mapeo Objeto Documento (Doctrine ODM + MongoDB)
 ---
