@@ -141,4 +141,4 @@ app/
 
 # Repositorio
 
-Repositorio desarrollado para la materia **Base de Datos** de la **Universidad Tecnológica Nacional – Facultad Regional Buenos Aires (UTN FRBA)** como parte del Trabajo Práctico de **Mapeo Objeto Documento con MongoDB**.
+Repositorio desarrollado para la materia **Base de Datos** de la **Universidad Tecnológica Nacional – Facultad Regional Villa Maria** como parte del Trabajo Práctico de **Mapeo Objeto Documento con MongoDB**.
