@@ -1,0 +1,21 @@
+services:
+  php:
+    build: .
+    container_name: odm_php
+    working_dir: /app
+    volumes:
+      - ./app:/app
+    depends_on:
+      - mongodb
+    ports:
+      - "8000:8000"
+    tty: true
+
+  mongodb:
+    image: mongo:8
+    container_name: odm_mongodb
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: 1234
+    ports:
+      - "27017:27017"
